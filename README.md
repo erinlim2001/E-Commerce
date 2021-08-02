@@ -12,11 +12,6 @@ The purpose of this project was to create the back end for an e-commerce site by
 
 1. Clone the repository using "git clone" followed by the SSH key or HTTPS 
 
-## Usage
-
-Demo Video:
-![E-Commerce](https://drive.google.com/file/d/1uBuIxFkUCrSrn8qRRU-vab-CgIa4gPK6/view)
-
 ## License
 
 MIT License
@@ -40,4 +35,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-https://drive.google.com/file/d/1uBuIxFkUCrSrn8qRRU-vab-CgIa4gPK6/view
